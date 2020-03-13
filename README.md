@@ -10,7 +10,7 @@
 * [Contact](#contact)
 
 ## General info
-This project is being completed as part of the curriculum for the Odin Project and is intended to hone/improve DOM manipulation, JavaScript and CSS/HTML skills.
+This project is being completed as part of the curriculum for the Odin Project (From The Odin Project's [curriculum](http://www.theodinproject.com/courses/web-development-101/lessons/html-css)) and is intended to hone/improve DOM manipulation, JavaScript and CSS/HTML skills.
 
 ## Technologies
 * HTML5
