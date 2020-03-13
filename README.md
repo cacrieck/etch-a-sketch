@@ -27,7 +27,7 @@ To-do list:
 ## Status
 Project is: Incomplete
 
-## Sources/Inspiration
+## Sources
 Add here credits. Project inspired by..., based on...
 
 ## Contact
